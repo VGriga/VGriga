@@ -1,7 +1,7 @@
 # Hi 👋, I'm Grigory a man obsessed with data
 
 ## 👓B.S. : BMSTU - Optomechanics 👓
-## 💪M.S. : Skoltech - Quantum technologies💪
+## 💪M.S. : Skoltech - Photonics and Quantum Materials💪
 ## 🔭I’m interested in🔭:
 - Computer vision
 - Classical Machine Learning
